@@ -1,11 +1,10 @@
 import React from 'react';
 import './App.css';
+import Routers from './Routers/Routers';
 
 function App() {
   return (
-    <>
-    Hello We Are IN
-    </>
+    <Routers />
   );
 }
 
